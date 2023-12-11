@@ -1,0 +1,3 @@
+Github Link -  https://github.com/girishsatyam/bike-case-study 
+Python file -  https://github.com/girishsatyam/bike-case-study/blob/main/GirishSatyam.ipynb
+Answers file - https://github.com/girishsatyam/bike-case-study/blob/main/Answers-Linear_Regression_Subjective_Questions_Ans.docx 
